@@ -7,4 +7,7 @@
 - Zookeeper注册中心
 - 负载均衡（轮循、加权轮循、最小压力）
 - 熔断、降级
-- Spring SDK bean配置 与 Spring Boot自动注入
+- 兼容Spring XML配置 与 Spring Boot自动注入
+
+
+### 使用说明
